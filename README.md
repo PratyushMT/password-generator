@@ -1,6 +1,8 @@
 # PASSWORD GENERATOR
 
-- A simple password generator built using ReactJS. 
+- A simple password generator built using ReactJS.
+
+- Try it here : https://pratyushmt.github.io/password-generator/
 
 ---
 
